@@ -105,7 +105,6 @@
 				563715AB22711DA300860D00 /* Models */,
 				562A4DA6226FD8CB00CD344F /* CustomControls */,
 				563D448A226B8D0A00A33C18 /* AppDelegate.swift */,
-				563D448C226B8D0A00A33C18 /* MealViewController.swift */,
 				563D448E226B8D0A00A33C18 /* Main.storyboard */,
 				563D4491226B8D0C00A33C18 /* Assets.xcassets */,
 				563D4493226B8D0C00A33C18 /* LaunchScreen.storyboard */,
@@ -126,6 +125,7 @@
 		56459C3622748BB7004872C0 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				563D448C226B8D0A00A33C18 /* MealViewController.swift */,
 				5644FACC2272668600A26400 /* MealTableViewCell.swift */,
 				56459C3722748C9D004872C0 /* MealTableViewController.swift */,
 			);
